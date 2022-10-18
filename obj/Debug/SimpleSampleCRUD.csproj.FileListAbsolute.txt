@@ -1,0 +1,5 @@
+C:\Users\Sai\Documents\Visual Studio 2013\Projects\SimpleSampleCRUD\SimpleSampleCRUD\bin\SimpleSampleCRUD.dll.config
+C:\Users\Sai\Documents\Visual Studio 2013\Projects\SimpleSampleCRUD\SimpleSampleCRUD\bin\SimpleSampleCRUD.dll
+C:\Users\Sai\Documents\Visual Studio 2013\Projects\SimpleSampleCRUD\SimpleSampleCRUD\bin\SimpleSampleCRUD.pdb
+C:\Users\Sai\Documents\Visual Studio 2013\Projects\SimpleSampleCRUD\SimpleSampleCRUD\obj\Debug\SimpleSampleCRUD.dll
+C:\Users\Sai\Documents\Visual Studio 2013\Projects\SimpleSampleCRUD\SimpleSampleCRUD\obj\Debug\SimpleSampleCRUD.pdb
